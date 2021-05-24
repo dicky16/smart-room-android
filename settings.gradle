@@ -1,0 +1,2 @@
+rootProject.name = "Penghemat Listik"
+include ':app'
